@@ -28,19 +28,35 @@
 
 
 | 01 | Presentación. Introducción            | |
+
 | 02 | Introducción                          | |
+
 | 03 | Encapsulamiento                       | |
+
 | 04 | Encapsulamiento                       | |
+
 | 05 | Herencia                              | |
+
 | 06 | Herencia                              | |
+
 | 07 | Polimorfismo                          | |
+
 | 08 | Polimorfismo                          | |
+
 | 09 | **Primer Parcial**                    | |
+
 | 10 | Colecciones: Pilas, Colas y Listas    | |
+
 | 11 | Colecciones: Diccionarios/Mapas       | |
+
 | 12 | Excepciones y Archivos                | |
+
 | 13 | Genericidad y Anotaciones             | |
+
 | 14 | **Segundo Parcial**                   | |
+
 | 15 | **Recuperatorios**                    | |
+
 | 16 | Cierre de Cursada                     | |
+
 
